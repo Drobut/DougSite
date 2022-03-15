@@ -1,0 +1,208 @@
+.FotoPerfil{
+    width: 200px;
+    border-radius: 50%;
+    border: 10px solid #ffffff75;
+    margin-bottom: 10px;
+    animation: pulse 10s infinite;
+    
+}
+
+
+@keyframes pulse {
+
+    0% {
+        transform: scale(1)
+    }
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1)
+    }
+  }
+
+.content {
+    top: 50%;
+    transform: translateY(-50%);
+    position: relative;
+}
+
+.menu {
+    text-align: center;
+
+}
+
+.menu li {
+    list-style-type: none;
+    transition: 0.8S all;
+    margin: 15px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #ffffffad;
+    font-size: 22px;
+    transition: 0.8S all;
+    
+   
+}
+
+.menu a:hover {
+    color:white ;
+
+}
+
+.menu li:hover {
+    transform: scale(1.1)
+    
+}
+
+aside {
+    background-color: #1abc9c;
+    border-radius: 10px;
+    position: absolute;
+    padding: 0px 10px 0px 10px;
+    margin: 8px;
+    top: 0%;
+    left: 0px;
+    bottom: 0px;
+    float: left;
+    width: 20%;
+
+}
+
+.infos {
+    margin-left: 25%;
+    float: right;
+    position: absolute;
+}
+
+.bio {
+    top: 50%;
+    transform: translateY(-50%);
+    position: fixed;
+    
+    
+}
+
+h1 {
+    font-size: 90px; 
+    top: 50%;
+    margin: 0px;
+    transition: 0.8S all;
+    display: inline-block;
+}
+
+h1:hover {
+    transform: scale(1.03);
+    cursor: default;
+}
+
+.infoend {
+    font-size: 30px;
+    transition: 0.8S all;
+    display: table;
+    
+}
+
+.infoend:hover {
+    transform: scale(1.03);
+    color: #1abc9c;
+    cursor: default;
+}
+
+.descri {
+    font-size: 20px;
+    padding-right: 40%;
+    transition: 0.8S all;
+    display: inline-block;
+    margin-top: 0px;
+}
+
+.descri:hover {
+    transform: scale(1.03);
+    color: #1abc9c;
+    cursor: default;
+}
+
+.image1 {
+ width: 51px;
+ transition: 0.8S all;
+ 
+}
+.image2 {
+    width: 50px;
+    transition: 0.8S all;
+   }
+.image3 {
+    width: 50px;
+    transition: 0.8S all;
+   }
+
+.image4 {
+    width: 50px;
+    transition: 0.8S all;
+   }
+
+.image1:hover {
+    transform: scale(1.2);
+}
+.image2:hover {
+    transform: scale(1.2);
+}
+.image3:hover {
+    transform: scale(1.2);
+}
+
+.image4:hover {
+    transform: scale(1.2);
+}
+
+.conheci {
+    font-size: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    position: fixed;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.conheci a {
+    text-decoration: none;
+    color: #000000;
+    transition: 0.8S all;
+    cursor: pointer;
+}
+
+.conheci a:hover {
+    color: #1abc9c;
+}
+
+ol li {
+    margin-top: 20px;
+    transition: 0.8S all;
+    cursor: pointer;
+    display: table;
+    text-decoration: none;
+}
+
+ ol li:hover {
+    transform: scale(1.1);
+    color: #1abc9c;
+}
+
+
+h2 {
+    font-size: 90px; 
+    top: 50%;
+    margin: 0px;
+    transition: 0.8S all;
+    display: inline-block;
+
+}
+
+h2:hover {
+    transform: scale(1.03);
+    cursor: default;
+}
