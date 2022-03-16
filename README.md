@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
 
 to use the page:
 
-1. Clone the repo
+1. Clone the repositorie
    ```sh
    git clone https://github.com/Drobut/primeiro-site
    ```
