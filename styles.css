@@ -294,6 +294,7 @@ h2:hover {
     margin-right: 4px;
     transition: 0.8S all;
     position: relative;
+    margin-left: -3px
 }
 
 
@@ -332,6 +333,7 @@ h2:hover {
     margin-right: 4px;
     position: absolute;
     opacity: 100%;
+    margin-left: -3px
 }
 
 
