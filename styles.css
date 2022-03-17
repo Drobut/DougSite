@@ -179,6 +179,7 @@ h1:hover {
     color: #1abc9c;
 }
 
+
 ol li {
     margin-top: 20px;
     transition: 0.8S all;
@@ -187,7 +188,7 @@ ol li {
     text-decoration: none;
 }
 
- ol li:hover {
+ol li:hover {
     transform: scale(1.1);
     color: #1abc9c;
 }
@@ -205,4 +206,151 @@ h2 {
 h2:hover {
     transform: scale(1.03);
     cursor: default;
+
 }
+
+
+
+.imgs {
+    display: table;
+}
+/*--------------------------------------------- Efeitos ----------------------------------------------*/
+.img1:hover a {
+    color: #1abc9c;
+}
+.img1 {
+    transition: 0.8S all;
+    
+    
+}
+.img1:hover{
+    transform: scale(1.1);
+}
+.img1:hover .lin1 {
+    opacity: 0%;
+    
+}
+
+.img2:hover a {
+    color: #1abc9c;
+}
+.img2 {
+    transition: 0.8S all;
+    
+}
+.img2:hover{
+    transform: scale(1.1);
+}
+.img2:hover .lin2 {
+    opacity: 0%;
+    
+}
+.img2:hover a {
+    color: #1abc9c;
+}
+.img3 {
+    transition: 0.8S all;
+    
+}
+.img3:hover{
+    transform: scale(1.1);
+}
+.img3:hover .lin3 {
+    opacity: 0%;
+    
+}
+.img3:hover a {
+    color: #1abc9c;
+}
+.img4 {
+    transition: 0.8S all;
+    
+}
+.img4:hover{
+    transform: scale(1.1);
+}
+.img4:hover .lin4 {
+    opacity: 0%;
+    
+}
+.img4:hover a {
+    color: #1abc9c;
+}
+
+/*--------------------------------------------- Efeitos ----------------------------------------------*/
+
+.lin1 {
+    vertical-align: -12px;
+    width: 45px;
+    margin-right: 4px;
+    transition: 0.8S all;
+    position: relative;
+}
+
+
+.lin2 {
+    vertical-align: -13px;
+    width: 50px;
+    margin-right: 4px;
+    transition: 0.8S all;
+    position: relative;
+}
+
+
+
+.lin3 {
+    vertical-align: -13px;
+    width: 45px;
+    margin-right: 4px;
+    transition: 0.8S all;
+    position: relative;
+}
+
+
+
+.lin4 {
+    vertical-align: -12px;
+    width: 45px;
+    margin-right: 4px;
+    transition: 0.8S all;
+    position: relative;
+    
+}
+
+.lin5 {
+    vertical-align: -12px;
+    width: 45px;
+    margin-right: 4px;
+    position: absolute;
+    transition: 0.8S all;
+}
+
+
+.lin6 {
+    vertical-align: -13px;
+    width: 50px;
+    margin-right: 4px;
+    position: absolute;
+    opacity: 100%;
+}
+
+
+
+.lin7 {
+    vertical-align: -13px;
+    width: 45px;
+    margin-right: 4px;
+    position: absolute;
+    opacity: 100%;
+}
+
+
+
+.lin8 {
+    vertical-align: -12px;
+    width: 45px;
+    margin-right: 4px;
+    position: absolute;
+    opacity: 100%;
+}
+
