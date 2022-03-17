@@ -1,7 +1,7 @@
 .FotoPerfil{
-    width: 200px;
+    width: 60%;
     border-radius: 50%;
-    border: 10px solid #ffffff75;
+    border: 0.5vw solid #ffffff4f;
     margin-bottom: 10px;
     animation: pulse 10s infinite;
     
