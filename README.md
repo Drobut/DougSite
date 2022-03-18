@@ -5,7 +5,8 @@ Project developed with the objective of applying the knowledge obtained as a res
 
 Growdev - full stack web developer
 
-![OR7V3K1](https://user-images.githubusercontent.com/75647011/158702683-9fa3bb07-4ffc-4895-8cb9-518116a7b49f.png)
+![OR7V3K1](https://user-images.githubusercontent.com/75647011/159008274-23ad7267-f5b1-4a28-8eea-71c8880f5753.jpg)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -58,7 +59,8 @@ to use the page:
 
 browse through the page
 
-![OR7V3K21](https://user-images.githubusercontent.com/75647011/158704950-893d22e5-ea44-49fb-bfca-7a12a2435210.png)
+![OR7V3K21](https://user-images.githubusercontent.com/75647011/159008304-761bc427-a55b-4410-b414-a1b46e242b0e.jpg)
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
